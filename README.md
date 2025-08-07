@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdul Fatthah</h1>
-<h3 align="center">🚀 Passionate Developer | Flutter & Android Expert | Creative Problem Solver</h3>
+<h3 align="center">🚀 Just a passionate Developer 👨🏼‍💻</h3>
 
 <div align="center">
   
