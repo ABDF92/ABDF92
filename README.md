@@ -8,7 +8,6 @@
 <div align="center">
   
 [![Resume](https://img.shields.io/badge/📄_Resume-View_Here-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/drive/folders/1CYCssTuOQ8G36rVxNiLxFjKqsG23fRh-)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/abdf92/)
 
 </div>
 
@@ -63,6 +62,8 @@
 <div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/abdf92?theme=dark&font=Almarai&ext=heatmap)
+<br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/abdf92/)
 
 </div>
 
