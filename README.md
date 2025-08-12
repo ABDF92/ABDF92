@@ -59,7 +59,12 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
----
+### 💻 Leetcode Stats
+<div align="center">
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/abdf92?theme=dark&font=Almarai&ext=heatmap)
+
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
